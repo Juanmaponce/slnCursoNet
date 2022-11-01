@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace WindowsAppPOO.Entidades
 {
-    public class ClienteEmpresa
+    public class Persona
     {
+        public Persona()
+        {
+        }
+
         public string Nombre { get; set; }
         public string CUIT { get; set; }
         public string Contacto { get; set; }

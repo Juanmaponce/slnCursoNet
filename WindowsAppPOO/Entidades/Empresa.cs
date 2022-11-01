@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsAppPOO.Entidades
 {
-    public class Proveedor
+    public class Empresa
     {
         public string Nombre { get; set; }
         public string CUIT { get; set; }
