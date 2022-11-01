@@ -8,6 +8,7 @@ namespace WindowsAppPOO.Entidades
 {
     internal class Remito
     {
+
         public string Tipo { get; set; }
         public DateTime Fecha { get; set; }
         public string Cliente { get; set; }
